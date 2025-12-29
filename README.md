@@ -2,7 +2,7 @@
 Repository for collaborative work and submission of group project
 # Group members:
 -Medjda Saadi - git manager
--Amel Halimi -latex & word 
+-Amel Halimi - word 
 -Alae Khadidja Mehis - powerpoint & HTML/CSS & excel
 -Baya Houdjedje - nothing
 
